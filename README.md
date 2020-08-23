@@ -23,8 +23,8 @@ I believe that technology could bring peace to the world and my goal is to find 
 
 ## To Connect -
 
-[![Linkedin Badge](https://img.shields.io/badge/-cseharshit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cseakhilgupta/)](https://www.linkedin.com/in/cseakhilgupta/) 
-[![Gmail Badge](https://img.shields.io/badge/-cse.harshitj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cse.akhil002@gmail.com)](mailto:cse.akhil002@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-cseakhilgupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cseakhilgupta/)](https://www.linkedin.com/in/cseakhilgupta/) 
+[![Gmail Badge](https://img.shields.io/badge/-cse.akhil002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cse.akhil002@gmail.com)](mailto:cse.akhil002@gmail.com)
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
