@@ -1,5 +1,5 @@
 # Introduction &nbsp;
-- I am **Akhil Gupta** and I am pursuing a Bachelor's Degree in Computer Science and Engineering from  <b>Vivekanada Institute Of Technology</b>.(Just waiting for my final sem's exam. (Curse you Corona))
+- I am **Akhil Gupta** and I am pursuing a Bachelor's Degree in Computer Science and Engineering from  <b>Vivekanada Institute Of Technology</b>.
 - Recently  I worked as a  Software Intern at Extern Labs Pvt. Ltd., Jaipur
 - As a Computer Science engineer, I possess a sound  foundation in programming and scripting languages (Python, Ruby on Rails) along with the knowledge of the best practices like OOP, and Data Structure and Algorithms.
 
@@ -14,7 +14,7 @@ I believe that technology could bring peace to the world and my goal is to find 
 
 
 # 💻 Technical Skills:
-- Python(Django)
+- Python
 - Ruby(Ruby On Rails)
 - Data Structures
 - C/C++
