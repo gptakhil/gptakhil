@@ -17,7 +17,7 @@ I believe that technology could bring peace to the world and my goal is to find 
 - Python(Django)
 - Ruby(Ruby On Rails)
 - Data Structures
-- C
+- C/C++
 - HTML/CSS
 - Linux
 
